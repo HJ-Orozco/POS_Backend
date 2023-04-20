@@ -1,4 +1,4 @@
-﻿using POS.Infrastucture.Commons.Bases;
+﻿using POS.Infrastucture.Commons.Bases.Request;
 using System.Linq.Dynamic.Core;
 
 namespace POS.Infrastucture.Helpers
